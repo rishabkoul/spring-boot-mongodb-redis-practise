@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Free Guy",
+    "description": "A bank teller realises",
+    "director": "Shawn Levy",
+    "language": "English",
+    "actors": ["Shawn", "The Sheep"]
+  },
+  {
+    "name": "The Sheep",
+    "description": "This is a story about sheep",
+    "director": "Sheep is here",
+    "language": "English",
+    "actors": ["Guga", "Gorilla"]
+  },
+  {
+    "name": "Is Here",
+    "description": "Baked in heaven",
+    "director": "Hello World",
+    "language": "English",
+    "actors": ["Really", "Bro"]
+  }
+]
